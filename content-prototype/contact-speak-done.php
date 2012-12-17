@@ -15,16 +15,7 @@
 
 <section>
 <h1>Thanks, You're Done!</h1>
-  <p>We'll get back with you as soon as we're able. Thanks for taking the time to express your interest!</p>
-  <h2>By the way...</h2>
-  <p>Don't feel obligated, but if you'd like to kickstart our relationship, we'd love to have you complete the below form. If we work together, these are the sorts of questions we'll ask eventually. They are useful for us to know in order to serve you well, and they are a useful exercise for you as well.</p>
-  <button><a href="index.php">Nice form, but no thanks.</a></button>
-</section>
-
-<section>
-<h1>Brand Workbook</h1>
-  <p><em>Here, we would insert a form which is essentially a version of J&auml;n's brand workbook modified for the web.</em></p>
-  <button>Send to Sparkbox</button>
+  <p>We'll get back with you as soon as we're able. Thanks for the invite. We hope to speak with you soon!</p>
 </section>
 
 <!--Footer featured some of our past clients' logos, but we only show logos for clients for whom we have work in our work section.	-->

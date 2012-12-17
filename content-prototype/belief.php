@@ -4,7 +4,7 @@
 <head>  
   <title>Sparkbox Beliefs</title>
   <meta name="description" content="From deep in the American heartland, our team of craftsmen answers the call for a better web. Driven by a deep belief in the freedom of a web liberated from device constraints, Sparkbox labors with conviction toward a higher standard as we write, educate, and build.">
-  <link rel="stylesheet" href="style.css" media="screen">
+  <link rel="stylesheet" href="content-style.css" media="screen">
 </head>
 
 <body>
@@ -35,7 +35,7 @@
     <dt>Embrace All Devices</dt>
       <dd>The measure of a site should be its quality of build, not its dimensions.</dd>
   </dl>
-  <p>We all appreciate working with those that stand on principle. Let us tell you about <a href="working_with_sparkbox.php">working with us</a>.</p>
+  <p>We all appreciate working with those that stand on principle. Let us tell you about <a href="working-with-sparkbox.php">working with us</a>.</p>
 </section>
 
 <section>

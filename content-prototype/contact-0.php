@@ -4,7 +4,7 @@
 <head>  
   <title>Contact Sparkbox</title>
   <meta name="description" content="From deep in the American heartland, our team of craftsmen answers the call for a better web. Driven by a deep belief in the freedom of a web liberated from device constraints, Sparkbox labors with conviction toward a higher standard as we write, educate, and build.">
-  <link rel="stylesheet" href="style.css" media="screen">
+  <link rel="stylesheet" href="content-style.css" media="screen">
 </head>
 
 <body>
@@ -27,11 +27,11 @@
 
 <ol>
   <p>I'm interested in...</p>
-  <li><a href="../contact-1.php">working with Sparkbox on a project.</a></li>
-  <li><a href="../contact-2.php">requesting Sparkbox to consult.</a></li> 
-  <li><a href="../contact-2.php">inviting Sparkbox to speak.</a></li> 
-  <li><a href="#">working for Sparkbox.</a></li>
-  <li><a href="#">something different, but equally amazing.</a></li>
+  <li><a href="contact-project.php">working with Sparkbox on a project.</a></li>
+  <li><a href="contact-consult.php">requesting Sparkbox to consult.</a></li>
+  <li><a href="contact-speak.php">inviting Sparkbox to speak.</a></li>
+  <li><a href="contact-jobs.php">working for Sparkbox.</a></li>
+  <li><a href="contact-other.php">something different, but equally amazing.</a></li>
 </ol>
 </section>
 

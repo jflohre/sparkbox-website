@@ -4,7 +4,7 @@
 <head>  
   <title>Sparkbox Team</title>
   <meta name="description" content="From deep in the American heartland, our team of craftsmen answers the call for a better web. Driven by a deep belief in the freedom of a web liberated from device constraints, Sparkbox labors with conviction toward a higher standard as we write, educate, and build.">
-  <link rel="stylesheet" href="style.css" media="screen">
+  <link rel="stylesheet" href="content-style.css" media="screen">
 </head>
 
 <body>
@@ -19,7 +19,7 @@
   <h1>Devoted To a Web Built Right</h1>
   <h2>Meet our team of web freedom fighters.</h2>
   <p>We&rsquo;re smart. We&rsquo;re hard-working. We&rsquo;re easy to talk to, and we love a challenge.</p>
-  <?php include("team_nav.php") ?>		
+  <?php include("team-nav.php") ?>		
 </section>
 
 <!--Detail section would contain overall team fun "statistics." This section could also be used to reveal a team member's details like we do on current site (unless we decided to make a page for this).-->

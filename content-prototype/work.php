@@ -4,7 +4,7 @@
 <head>  
   <title>Sparkbox Work</title>
   <meta name="description" content="From deep in the American heartland, our team of craftsmen answers the call for a better web. Driven by a deep belief in the freedom of a web liberated from device constraints, Sparkbox labors with conviction toward a higher standard as we write, educate, and build.">
-  <link rel="stylesheet" href="style.css" media="screen">
+  <link rel="stylesheet" href="content-style.css" media="screen">
 </head>
 
 <body>
@@ -14,7 +14,8 @@
   </header>
 
   <section>	
-    <h1>Behavior of this page:</h1>
+    <h1>Work</h1>
+    <h2>Behavior of this page:</h2>
     <p>Items on this page are listed with most recent at the top-left, oldest at bottom-right. We can not handle this as we are on the current site. For example, the first and second most recent items are currently in the left-hand column on top of one another</p>
   </section>
   

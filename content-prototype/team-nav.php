@@ -14,6 +14,6 @@
     <li><a title="Link reveals person's information (hiding team overview)." href="team-member.php">Patrick</a></li>
     <li><a title="Link reveals person's information (hiding team overview)." href="team-member.php">Rob</a></li>
     <li><a title="Link reveals person's information (hiding team overview)." href="team-member.php">Rob</a></li>
-    <li><a title="Link reveals person's information (hiding team overview)." href="apprenticeships_and_internships.php">You?</a></li>
+    <li><a title="Link reveals person's information (hiding team overview)." href="apprenticeships-and-internships.php">You?</a></li>
   </ol>
 </nav>

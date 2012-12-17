@@ -4,7 +4,7 @@
 <head>  
   <title>Sparkbox</title>
   <meta name="description" content="From deep in the American heartland, our team of craftsmen answers the call for a better web. Driven by a deep belief in the freedom of a web liberated from device constraints, Sparkbox labors with conviction toward a higher standard as we write, educate, and build.">
-  <link rel="stylesheet" href="style.css" media="screen">
+  <link rel="stylesheet" href="content-style.css" media="screen">
 </head>
 
 <body>
@@ -19,8 +19,8 @@
   <p>Build right, and</p>
   <h1>Set Your Site Free.</h1>
   <img src="" alt="Hero imagery speaks to freedom." />
-  <p>From deep in the American heartland, <a href="team.html">our team of craftsmen</a> answers the call for a <a href="work.html">better web</a>. Driven by a deep belief in the freedom of a web liberated from device constraints, Sparkbox labors with conviction toward <a href="belief.html">a higher standard</a> as we <a href="foundry-blog.html">write</a>, <a href="foundry-calendar.html">educate</a>, and <a href="foundry-pursuits.html">build</a>.</p>
-  <p>For the fluidity of your content, for the integrity of your vision, for the cause of a more durable web, we invite you to <a href="contact.html">join us</a>.</p>
+  <p>From deep in the American heartland, <a href="team.php">our team of craftsmen</a> answers the call for a <a href="work.php">better web</a>. Driven by a deep belief in the freedom of a web liberated from device constraints, Sparkbox labors with conviction toward <a href="belief.php">a higher standard</a> as we <a href="foundry-blog.php">write</a>, <a href="foundry-calendar.php">educate</a>, and <a href="foundry-pursuits.php">build</a>.</p>
+  <p>For the fluidity of your content, for the integrity of your vision, for the cause of a more durable web, we invite you to <a href="contact-0.php">join us</a>.</p>
 </section>
 
 <!--Foundry section highlights featured blog, calendar, and labs entries.-->

@@ -4,7 +4,7 @@
 <head>  
   <title>Contact Sparkbox</title>
   <meta name="description" content="From deep in the American heartland, our team of craftsmen answers the call for a better web. Driven by a deep belief in the freedom of a web liberated from device constraints, Sparkbox labors with conviction toward a higher standard as we write, educate, and build.">
-  <link rel="stylesheet" href="style.css" media="screen">
+  <link rel="stylesheet" href="content-style.css" media="screen">
 </head>
 
 <body>
@@ -31,7 +31,7 @@
   <input type="text" name="email" value="" />
   <br />
   
-  <button><a href="../contact-3done.php">Send to Sparkbox</a></button>
+  <button><a href="contact-speak-done.php">Send to Sparkbox</a></button>
 </section>
 
 <!--Footer featured some of our past clients' logos, but we only show logos for clients for whom we have work in our work section.	-->
