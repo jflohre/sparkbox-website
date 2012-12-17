@@ -35,16 +35,18 @@
 
   <label for="">Why do you want this?</label><br />
   <textarea></textarea><br />
+  
+  <label for="">When will you be available?</label><br />
+  <textarea></textarea><br />
+  
+  <label for="">Your relevant account names (on Twitter, Github, Dribbble, etc).</label><br />
+  <textarea></textarea><br />
 
   <label for="">Your email address</label><br />
   <input type="text" name="email" value="" />
   <br />
   
-  <label for="">Your email address</label><br />
-  <input type="text" name="email" value="" />
-  <br />
-  
-  <button><a href="contact-project-done.php">Send to Sparkbox</a></button>
+  <button><a href="contact-jobs-done.php">Send to Sparkbox</a></button>
 </section>
 
 <!--Footer featured some of our past clients' logos, but we only show logos for clients for whom we have work in our work section.	-->
