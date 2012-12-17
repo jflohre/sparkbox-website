@@ -17,7 +17,7 @@
 
 <section>
 <h1>Contact Sparkbox</h1>
-<p>As far as we're concerned, our relationship starts now. We want to serve you well, and filling out this quick form helps to do that. Let's go!</p> 
+<p>As far as we're concerned, our relationship starts now. We want to serve you well, and filling out this quick form helps to do that.</p> 
 
 <label for="">Your First Name</label><br />
 <input type="text" name="First Name" value="" /><br />
