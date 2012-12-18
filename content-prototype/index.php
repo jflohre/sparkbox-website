@@ -1,7 +1,7 @@
 <!doctype html>
 
 <html>
-<head>  
+<head>
   <title>Sparkbox</title>
   <meta name="description" content="From deep in the American heartland, our team of craftsmen answers the call for a better web. Driven by a deep belief in the freedom of a web liberated from device constraints, Sparkbox labors with conviction toward a higher standard as we write, educate, and build.">
   <link rel="stylesheet" href="content-style.css" media="screen">
@@ -15,7 +15,7 @@
 
 <!--Hero section is a call to set your site free by building it right. It sets a tone of our-->
 
-<section>
+<section class="hero">
   <p>Build right, and</p>
   <h1>Set Your Site Free.</h1>
   <img src="" alt="Hero imagery speaks to freedom." />
@@ -25,35 +25,35 @@
 
 <!--Foundry section highlights featured blog, calendar, and labs entries.-->
 
-<section>
-  <article>
+<section class="foundry">
+  <section class="blog">
     <h1>Blog <a href="foundry-blog.html">All</a></h1>
     <img src="" alt="Featured Image" />
     <h2><a href="http://seesparkbox.com/foundry/how_should_we_write_media_queries">How Should We Write Media Queries?</a></h2>
     <h3>Ben Callahan</h3>
     <p>A look at how the web community has been writing media queries &mdash; and perhaps how we should write them. </p>
-  </article>
+  </section>
 
-  <article>
+  <section class="calendar">
     <h1>Calendar <a href="foundry-calendar.html">All</a></h1>
     <img src="" alt="Featured Image" />
     <h2><a href="#">In Control 2012</a></h2>
     <h3>Honolulu, HI</h3>
     <p>Ben will be conducting a workshop with Karen McGrane on making the most of mobile. </p>
-  </article>
-  
-  <article>
+  </section>
+
+  <section class="labs">
     <h1>Pursuits <a href="foundry-pursuits.html">All</a></h1>
     <img src="" alt="Featured Image" />
     <h2><a href="#">Media Query Bookmarklet</a></h2>
     <h3>Rob Tarr and Potential Other Author</h3>
     <p>We created this bookmarklet to aid in designing responsive websites. Now you can always know what media query just triggered. Never again will you lose track of where you are. </p>
-  </article>
+  </section>
 </section>
 
 <!--Work section highlights featured work entry -->
 
-<section>
+<section class="work">
   <h1>Featured Work</h1>
   <img src="" alt="Featured Image" />
   <h2><a href="#">Stry.Us Long-Form News Website</a></h2>

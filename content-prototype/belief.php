@@ -1,7 +1,7 @@
 <!doctype html>
 
 <html>
-<head>  
+<head>
   <title>Sparkbox Beliefs</title>
   <meta name="description" content="From deep in the American heartland, our team of craftsmen answers the call for a better web. Driven by a deep belief in the freedom of a web liberated from device constraints, Sparkbox labors with conviction toward a higher standard as we write, educate, and build.">
   <link rel="stylesheet" href="content-style.css" media="screen">
@@ -14,12 +14,10 @@
   </header>
 
 <!-- -->
-<section>
-  <h1>It's More Than Just Work</h1>
-  <h2>It's who we are.</h2>
-</section>
+<h1>It's More Than Just Work</h1>
+<h2>It's who we are.</h2>
 
-<section>
+<section class="principles">
   <h1>Principled Work</h1>
   <p>The way we build reflects what we believe, who we wish to be, and why we get up in the morning.</p>
 <!--I'd like to see us include links to blog articles concerning each of these principles.	-->
@@ -38,7 +36,7 @@
   <p>We all appreciate working with those that stand on principle. Let us tell you about <a href="working-with-sparkbox.php">working with us</a>.</p>
 </section>
 
-<section>
+<section class="values">
   <h1>A Principled Team</h1>
   <p>The only real thing we have to offer is us. It's not what we do &mdash; it's how we do it.</p>
   <!--I'd like to see us include links to blog articles concerning each of these principles.	-->
