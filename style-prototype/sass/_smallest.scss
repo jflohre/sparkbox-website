@@ -189,13 +189,10 @@ p {
 		}
 
 		padding-bottom: 18%;
-		margin: 0 $swatch-margin $swatch-margin 0;
+		
+		margin: $swatch-margin;
 
 		background-color: #222;
-
-		&:last-child {
-			margin-right: 0;
-		}
 	}
 
 	.primary { background-color: $primary; }
@@ -252,7 +249,7 @@ p {
 .event {
 	width: 100%;
 	min-height: 400px;
-	background-image: url("/img/brworkshop.jpg");
+	background-image: url("/style-prototype/img/brworkshop.jpg");
 	background-repeat: none;
 	background-color: $primary;
 	float: left;
@@ -293,7 +290,8 @@ p {
 	}
 	
 	
-	h3 {
+	.time, .place {
+	@extend h3;
 	text-transform: uppercase;
 	text-align: center;
 	margin-top: 2.5em;
@@ -326,11 +324,12 @@ p {
 	padding: 0 20% 0 20%;
 		}
 	
-	h3 {
+	.name {
+	@extend h3;
 	padding: 10px 0 10px 0;
 	text-align: center;
 	letter-spacing: 0;
-	background-image: url('/img/banner.png');
+	background-image: url('/style-prototype/img/banner.png');
 	background-repeat: no-repeat;
 	background-position: center;
 	font-size: 1em;

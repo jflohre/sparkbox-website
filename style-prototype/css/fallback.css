@@ -385,11 +385,11 @@ td {
   @page {
     margin: 0.5cm; }
 
-  p, h2, h3 {
+  p, h2, h3, .event .time, .event .place, .team-stat .name {
     orphans: 3;
     widows: 3; }
 
-  h2, h3 {
+  h2, h3, .event .time, .event .place, .team-stat .name {
     page-break-after: avoid; } }
 * {
   -moz-box-sizing: border-box;
@@ -470,7 +470,7 @@ h2 {
   line-height: 1em;
   margin-top: 0px; }
 
-h3 {
+h3, .event .time, .event .place, .team-stat .name {
   font-family: 'Avenir Next LT W01 Bold', sans-serif;
   font-size: .75em;
   letter-spacing: .3em;
@@ -514,12 +514,10 @@ p {
     float: left;
     width: 31%;
     padding-bottom: 18%;
-    margin: 0 2% 2% 0;
+    margin: 1%;
     background-color: #222; }
     .lt-ie9 .colors li {
-      width: 31%; }
-    .colors li:last-child {
-      margin-right: 0; }
+      width: 31.66667%; }
   .colors .primary {
     background-color: #50b7c8; }
   .colors .secondary {
@@ -562,7 +560,7 @@ p {
 .event {
   width: 100%;
   min-height: 400px;
-  background-image: url("/img/brworkshop.jpg");
+  background-image: url("/style-prototype/img/brworkshop.jpg");
   background-repeat: none;
   background-color: #50b7c8;
   float: left;
@@ -592,7 +590,7 @@ p {
     text-align: center;
     margin: 2em 2em 3em 2em;
     display: block; }
-  .event h3 {
+  .event .time, .event .place {
     text-transform: uppercase;
     text-align: center;
     margin-top: 2.5em;
@@ -613,11 +611,11 @@ p {
     text-align: center;
     margin: 0 0 30px 0;
     padding: 0 20% 0 20%; }
-  .team-stat h3 {
+  .team-stat .name {
     padding: 10px 0 10px 0;
     text-align: center;
     letter-spacing: 0;
-    background-image: url("/img/banner.png");
+    background-image: url("/style-prototype/img/banner.png");
     background-repeat: no-repeat;
     background-position: center;
     font-size: 1em;
@@ -638,12 +636,6 @@ p {
   .device h4 {
     text-align: center;
     margin: 0 0 6% 0; }
-
-.swatches {
-  padding: 2em; }
-
-.details ul li.fixed.a {
-  background-size: auto; }
 
 h4 {
   font-size: 1em; }
@@ -670,7 +662,7 @@ h4 {
   padding-bottom: 0%; }
 
 .colors li {
-  width: 15%;
+  width: 14.5%;
   height: 1em;
   padding-bottom: 15%; }
 
@@ -678,7 +670,7 @@ h4 {
   width: 50%;
   height: 450px; }
 
-.event h3 {
+.event h3, .event .time, .event .place, .event .team-stat .name, .team-stat .event .name {
   margin-top: 4.5em; }
 
 .team-stat {
