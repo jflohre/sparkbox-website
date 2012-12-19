@@ -636,6 +636,8 @@ p {
   .device h4 {
     text-align: center;
     margin: 0 0 6% 0; }
+  .lt-ie8 .device {
+    padding: 0; }
 
 /* import 700 */
 h4 {
@@ -656,8 +658,8 @@ h4 {
   width: 100%;
   padding: 7% 5% 5% 5%;
   margin: 0 auto; }
-  .swatches .lt-ie9 {
-    padding: 0; }
+  .lt-ie9 .swatches {
+    padding: 7% 0; }
 
 .colors {
   padding-bottom: 0%; }
@@ -670,6 +672,8 @@ h4 {
 .event {
   width: 50%;
   height: 450px; }
+  .lt-ie8 .event {
+    padding: 0 0 4%; }
 
 .event h3, .event .time, .event .place, .event .team-stat .name, .team-stat .event .name {
   margin-top: 4.5em; }

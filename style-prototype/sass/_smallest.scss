@@ -95,9 +95,11 @@ nav {
 
 .typography {
     float: left;
-		background-color: #cbf8ff;
-		padding: 50px 9% 5%;
-		
+	background-color: #cbf8ff;
+	padding: 50px 9% 5%;
+	.lt-ie8 & {
+		padding: 50px 0;
+	}
 		
 	
 }
@@ -183,10 +185,6 @@ p {
 		float: left;
 		
 		width: 31%;
-
-		.lt-ie9 & {
-      width: (( 100% - ( $swatch-margin * ($num-colors - 1) ) ) / $num-colors) - 1;
-		}
 
 		padding-bottom: 18%;
 		
@@ -361,6 +359,9 @@ p {
 	margin: 0 0 6% 0;
 	}
 
+	.lt-ie8 & {
+		padding: 0;
+	}
 
 }	
 
