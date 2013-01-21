@@ -6,7 +6,7 @@
     <li><a title="Link reveals person's information (hiding team overview)." href="team-member.php">Drew</a></li>
     <li><a title="Link reveals person's information (hiding team overview)." href="team-member.php">Eddie</a></li>
     <li><a title="Link reveals person's information (hiding team overview)." href="team-member.php">Ethan</a></li>
-    <li><a title="Link reveals person's information (hiding team overview)." href="team-member.php">Jake</a></li>
+    <li><a title="Link reveals person's information (hiding team overview)." href="Jacob-Flohre.php">Jake</a></li>
     <li><a title="Link reveals person's information (hiding team overview)." href="team-member.php">J&auml;n</a></li>
     <li><a title="Link reveals person's information (hiding team overview)." href="team-member.php">Jeremy</a></li>    
     <li><a title="Link reveals person's information (hiding team overview)." href="team-member.php">Jeremy</a></li>    
